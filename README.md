@@ -41,7 +41,7 @@ $ cd src
 
 # Run the app
 $ g++ coffeeFactorySimulation.cpp -o coffeeFactorySimulation
-$ ./posixThreads
+$ ./coffeeFactorySimulation
 ```
 
 Alternatively, you can run the code using Google Colab:
