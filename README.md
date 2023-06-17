@@ -3,7 +3,7 @@ This code simulates a coffee factory using pthreads for parallel processing. It 
 
 <p align="center">
   <br>
-  <img src="https://cdn.dribbble.com/users/743767/screenshots/2876058/coffee_press_14e.gif" alt="pic" width="500">
+  <img src="https://i.gifer.com/Dq5.mp4" alt="pic" width="500">
   <br>
 </p>
 <p align="center" >
